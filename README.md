@@ -1,3 +1,6 @@
+### POINTS: 0
+### KEY: No submission in GitHub
+
 # Django CRUD 2 cw
 
 Create a simple CRUD application to manage contacts. Each contact should have:
